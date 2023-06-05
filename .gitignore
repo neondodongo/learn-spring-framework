@@ -1,4 +1,4 @@
-HELP.md
+learn-spring-framework-01/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
